@@ -1,6 +1,8 @@
 # Data_Science_Salary_Analysis_SQL
 
 In this Project, I downloaded the dataset from Kaggle titled Data Science Job salaries, amd worked to answer following questions
+
+
 1.How many job title was included in the dataset?
 2.Which experience level has the highest salary?
 3.Does the employment type affect salary?
