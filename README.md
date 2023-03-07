@@ -1,6 +1,6 @@
 # Data_Science_Salary_Analysis_SQL
 
-In this Project, I downloaded the dataset from Kaggle titled Data Science Job salaries, amd worked to answer following questions
+In this Project, I downloaded the dataset from Kaggle titled Data Science Job salaries, and worked to answer following questions
 
 
 1.How many job title was included in the dataset?
